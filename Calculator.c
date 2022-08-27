@@ -39,7 +39,7 @@ void main()
         break;
 
     default:
-        printf("Input correct option\n");
+        printf("Input Valid option\n");
         break;
     }
 }
